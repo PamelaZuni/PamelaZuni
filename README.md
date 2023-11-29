@@ -1,7 +1,7 @@
 ### Pamela
 
 
-✨ Self-taught in coding, I specialize in front-end development. Passionate about the tech world and digital communications, I love participating in projects where I can develop products or services using new technologies. My most recent project was with L'Oreal, where I had the opportunity to work with a team to develop a device integrated with AI for reading scalp conditions.
+✨ Self-taught code, specializing in front-end development. Passionate about the tech world and digital communications, I love participating in projects where I can develop products or services using new technologies. My most recent project was with L'Oreal, where I had the opportunity to work with a team to develop a device integrated with AI for reading scalp conditions.
 
 ### Let's Connect
 
