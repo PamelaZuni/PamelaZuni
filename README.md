@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=800&size=30&duration=4000&pause=1000&color=663399&center=true&vCenter=true&width=1000&lines=Welcome+to+Pamela's+Profile)](https://git.io/typing-svg)
 
-✨ Specializing in full-stack development. Passionate about the tech world and digital communications, I love participating in projects where I can develop products or services using new technologies. Mint tea lover and cat mom. 
+✨ Specializing in front-end development. Passionate about the tech world and digital communications, I love participating in projects where I can develop products or services using new technologies. Mint tea lover and cat mom. 
 
 ### Let's Connect
 
